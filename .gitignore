@@ -6,3 +6,4 @@ test-site/
 dist/
 build/
 *.log
+node_modules/
