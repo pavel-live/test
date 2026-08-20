@@ -1,6 +1,8 @@
-Nothing should be ignored based on the provided file changes. The only change was the deletion of a source file (`test-site/index.html`), which doesn't warrant any new ignore rules.node_modules/
+```
+# Directories
+test-site/
+```node_modules/
 .next/
 dist/
 build/
 *.log
-node_modules/
